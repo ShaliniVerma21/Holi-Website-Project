@@ -1,4 +1,7 @@
 # Holi-Website-Project
+
+![image](https://github.com/user-attachments/assets/1a93f6b5-e185-4458-ab05-80b9fe0da000)
+
 ### **🌸 Holi Website Project 🎨 | A Colorful Celebration of Festivity**  
 
 Welcome to the **Holi-Website-Project**! 🎉 This is a vibrant, **front-end web project** built using **HTML, CSS, and Canva**, with creative content powered by **ChatGPT**. The website is designed to capture the essence of **Holi – the festival of colors** 🌈, offering an immersive and joyful experience.  
